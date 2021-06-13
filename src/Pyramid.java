@@ -1,6 +1,6 @@
 public class Pyramid {
     private double height;
-    private String name;
+    String name;
     private String pharaoh;
     private String site;
 
